@@ -1,0 +1,23 @@
+# Site settings
+title: Evan's World
+email: me@techkid6.com
+description: "Evan Markowitz, also known as techkid6, lives in his own little world.  Its ok, they know him there."
+baseurl: "http://techkid6.com"
+url: "http://techkid6.com"
+social:
+  - icon:       rss
+    url:        feed.xml
+  - icon:       twitter
+    url:        https://twitter.com/techkid6
+  - icon:       github
+    url:        https://github.com/techkid6
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+
+# Gem settings
+gems:
+  - jekyll-geo-pattern
