@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/techkid6
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://techkid6.com
+  * I am techkid6 (https://keybase.io/techkid6) on keybase.
+  * I have a public key with fingerprint 51D6 61A3 0126 7160 1DBD  5BD2 8923 B2EE 88D8 EEE8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "51d661a3012671601dbd5bd28923b2ee88d8eee8",
+            "host": "keybase.io",
+            "key_id": "8923b2ee88d8eee8",
+            "kid": "01018951eb5a5131ed1ffe534fc05bb52db7d4ad7fd1c3e19372482fb79d304415fb0a",
+            "uid": "670d656d8901645ea28fd7ace239a700",
+            "username": "techkid6"
+        },
+        "service": {
+            "hostname": "techkid6.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1441071145,
+    "expire_in": 157680000,
+    "prev": "4d0a6a60250bd1f55bfa331c0d07c0923b2b6e6d70ab037f5a4816b39a4cb06b",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.43
+Comment: https://keybase.io/crypto
+
+yMIZAnicbZJdSBVBFMevppVKFiUGilDri1/JzO7O7l6pJAojITEtetGuOzuzul29
+e713r5+UYkqmFkZRlg9FglFSD5aWNwINKdAe8qMoEvuAwoouJkUfhDUr9RLNy2HO
++Z/fnPNnRlctc0SHHUvuD7U+Dc2FjY9sCzj2vXGk1nPYJLVcVj3npktBNzyl1Of1
+GR6Ly+IQJJIEVQFAXpKhBCDBBGHCK05ewDylikIUygKXwZWZfruDYbDqp5mGyXLs
+4jIIy/5H714qAAig4kSQYqQiKEBKoK5TJIi6BhDGiCdYJqJKZJ1ATaDQKci8qPA6
+lp1EAKIIkY6BynCBJZwkAyIhiShOACURUZVXdCKrGuUFpyoDYAv91OdRKyhTW1Qr
+Y2NI3KEMjmWrDI3aFtib/KPI1MwK1uv1mZapmeWsUmZZ3iy70ar12spqil1/GC5s
+eAizkTVUUZ/fMD1cFmRKzTJsKGRTAxlCEWVwtMZr+KjLsBVIlhTAjv0MrWJIkQBV
+UiXAI4CZLQhhXRUEqAECZA0sOYolKhEZqBgIso5UUYESZpuKGgYS5uytKj0mY/Ns
+TrWUMf1GqUe1Aj7KHbo3XBThCIt2LI8Mt3+CIzpqzd//cbJxxa/y9KNJN1Zejk8f
+nH/2oD1lvTshdvfjokVa093bfWpmpCeQdL7dOby6hUx1kDDvzGxxcWXcwCOxta8r
+e0ipRD9dhzdd2dPbc+ZSrhGbuti2xQqWLETE3A8OXBMm135ISGoW21oK77yMbC2a
+K8oJ9TXfTmp6cWHD3QODE8ETb7culH/1pllND8eSKwTu+9S5vNGYcO/0kRRtY2JO
+/uLNgc7rkzNx4xc/hr92731yNZhXrenvfuzo2PX+W0SBNb+urqGxv3MnLJkfORtM
+21wjDBws9jXE1GV/qT/dP/Gpo/j40KscnJuSf6urYOx54ez2ckdvZXswccIthCbi
+26b3j36O+g2x2S0s
+=rOVQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/techkid6
+
+==================================================================
+
