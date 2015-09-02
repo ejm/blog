@@ -24,26 +24,24 @@ layout: default
       {% endfor %}
     </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <article>
-        {% if paginator.total_pages > 1 %}
-          <ul class="pager">
-            {% if paginator.previous_page %}
-              <li class="previous">
-                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-              </li>
-            {% endif %}
-            {% if paginator.next_page %}
-              <li class="next">
-                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-              </li>
-            {% endif %}
-          </ul>
-        {% endif %}
-      </article>
+  {% if paginator.total_pages > 1 %}
+    <div class="row">
+      <div class="col-md-12">
+        <ul class="pager">
+          {% if paginator.previous_page %}
+            <li class="previous">
+              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+            </li>
+          {% endif %}
+          {% if paginator.next_page %}
+            <li class="next">
+              <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>   
+            </li>
+          {% endif %}
+        </ul>
+      </div>
     </div>
-  </div>
+  {% endif %}
   <div class="row">
     <div class="col-md-12">
       <a class="subscribe btn btn-warning btn-simple" href="http://techkid6.com/feed.xml"><i class="fa fa-rss"></i> Subscribe Here!</a>
