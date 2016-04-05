@@ -5,7 +5,7 @@ description: This is who I am.
 permalink: /about/
 ---
 
-Hi, I'm Evan Markowitz, and I do things on the internet.  I write code, particularly in Python with some Java mixed in, but I also fix compters and I intend on building my own in the near future (check out the blog for news on that!)
+Hi, I'm Evan Markowitz, and I do things on the internet.  I write code, particularly in Python with some Java mixed in, but I also fix compters and I built one for myself [here](http://pcpartpicker.com/b/ByCypg)
 
 I'm enthusiastic, fun-loving, and I love to try out new stuff.  One of those new things was to fix up my website.  My posts generally cater to those who enjoy technology; my username isn't techkid6 for nothing.
 
