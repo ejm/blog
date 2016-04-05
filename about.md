@@ -14,5 +14,6 @@ You can find me on all of these places:
 * [Twitter](https://twitter.com/techkid6)
 * [GitHub](https://github.com/techkid6)
 * [Google+](https://plus.google.com/+EvanMarkowitz)
+* [Telegram](https://telegram.me/techkid6)
 
 And you can follow this blog [here](http://techkid6.com/feed.xml)
